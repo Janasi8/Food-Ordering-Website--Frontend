@@ -1,18 +1,30 @@
-# Food Ordering Website - Frontend 🍔🍕🥤
+# 🍔 Food Ordering Website – Frontend
 
-A modern frontend food ordering web app built using ReactJS and Tailwind CSS.
+A modern and responsive **Food Ordering Web Application (Frontend)** built using **React.js** and **Tailwind CSS**.  
+This project focuses on clean UI, reusable components, and smooth user experience.
 
-## Features
+## 🚀 Live Demo
+🔗 https://YOUR-VERCEL-LINK.vercel.app
+
+## ✨ Features
 - Sidebar navigation
-- Food categories and filtering
-- Reusable components
-- Responsive design
+- Food categories & filtering
+- Reusable React components
+- Fully responsive design
+- Clean and modern UI
 
-## Future Scope
-- Add cart & order tracking
-- Backend integration
-- Vendor dashboard
-
-## Tech Stack
-- React
+## 🛠️ Tech Stack
+- React.js
 - Tailwind CSS
+- JavaScript (ES6)
+- Vercel (Deployment)
+
+## 📸 Screenshots
+(Add screenshots of your app here)
+
+## 📦 Installation (For Local Setup)
+```bash
+git clone https://github.com/Janasi8/Food-Ordering-Website--Frontend.git
+cd Food-Ordering-Website--Frontend
+npm install
+npm start
