@@ -20,7 +20,8 @@ This project focuses on clean UI, reusable components, and smooth user experienc
 - Vercel (Deployment)
 
 ## 📸 Screenshots
-(Add screenshots of your app here)
+<img width="1918" height="875" alt="image" src="https://github.com/user-attachments/assets/6673dad3-18ab-4a6c-ad6e-1b1259045299" />
+
 
 ## 📦 Installation (For Local Setup)
 ```bash
